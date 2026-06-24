@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
+## Machine Learning and AI Enthusiast
 
-<!--
-**ashutoshkumar101/ashutoshkumar101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently Learning:
+  - Machine Learning
+  - Deep Learning
+  - MLOps
+  -LLMs
 
-Here are some ideas to get you started:
+Projects:
+  - Student Performance Predictor (In Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools:
+  - Python
+  - Numpy
+  - Pandas
+  - Scikit-Learn
+  - Google Colab
+
+Connect:
+
